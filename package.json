@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "google-fonts-webpack-plugin": "^0.4.4"
   }
 }
